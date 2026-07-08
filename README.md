@@ -22,7 +22,21 @@
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/Shaurya24k">
+<a href="https://github.com/Shaurya24k">**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql,firebase&theme=dark"/>
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark"/>
   <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
@@ -67,19 +81,19 @@ I'm a recent Class 12 (PCMB, CBSE) graduate heading into engineering, with a str
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,swift&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql,firebase&theme=dark"/>
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,figma,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark"/>
 
 ---
 
@@ -192,9 +206,6 @@ Freelance work across Reddit-focused content platforms, producing natural, platf
 
 | Recognition | Details |
 |---|---|
-| 🎓 CBSE Class 12 | Completed PCMB stream |
-| 🧪 NEET 2026 | Appeared for NEET 2026 |
-| 📝 MET 2026 | Cleared Phase 1 & Phase 2 of Manipal Entrance Test |
 | 🎮 Rockstar Games Interview | Selected for and completed a video interview for a game-testing/QA-adjacent role |
 | 🛠️ Product Builder | Designed and scaffolded a full India-focused Android app (Yatra/Deshtrail) |
 
