@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SHAURYA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:4C1D95&height=220&section=header&text=SHAURYA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20Fresher%20%7C%20Full%20Stack%20%26%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Real-World+Products;Exploring+AI%2FML+%26+Full+Stack+Dev;India-First+Software%2C+Global+Standards;Learning+in+Public%2C+Shipping+Fast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Real-World+Products;Exploring+AI%2FML+%26+Full+Stack+Dev;India-First+Software%2C+Global+Standards;Learning+in+Public%2C+Shipping+Fast" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Class%2012-CBSE%20%7C%20PCMB-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Location-Gandhinagar%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1a1a2e"/>
 
 <br/><br/>
@@ -16,27 +16,13 @@
 <a href="https://your-portfolio-link.com">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/shaurya-sinha-96390b268/">
   <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:shauryasinhass@gmail.com">
   <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
 </a>
-<a href="https://github.com/Shaurya24k">**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript&theme=dark"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,mysql,firebase&theme=dark"/>
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark"/>
+<a href="https://github.com/Shaurya24k">
   <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
 </a>
 
@@ -56,13 +42,13 @@
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-I'm a recent Class 12 (PCMB, CBSE) graduate heading into engineering, with a strong pull toward **software engineering, full stack development, and applied AI/ML**. I build with a **product mindset** — picking real problems, shipping working software, and iterating fast rather than chasing theory alone.
+I'm a **B.Tech Computer Science Engineering** fresher with a strong pull toward **software engineering, full stack development, and applied AI/ML**. I build with a **product mindset** — picking real problems, shipping working software, and iterating fast rather than chasing theory alone.
 
 - 🧠 Exploring **AI/ML tooling** — from LLM-assisted development workflows to applied automation
 - 🏗️ Building **full stack products end-to-end**, from schema design to UI
 - ⚙️ Comfortable across the **Apple/Mac ecosystem**, cloud tooling (Supabase), and modern dev workflows
 - 📈 Focused on **India-first products** — solving problems relevant to the local market
-- 🌱 Currently deepening my foundations ahead of starting my B.Tech in Computer Science
+- 🌱 Actively strengthening my CS fundamentals as I begin my B.Tech journey
 
 <br/>
 
@@ -104,11 +90,11 @@ I'm a recent Class 12 (PCMB, CBSE) graduate heading into engineering, with a str
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | **AI-Assisted Development** | ⭐⭐⭐⭐☆ | Using Claude Code and LLM tooling to scaffold, debug, and ship faster |
-| **Full Stack Development** | ⭐⭐⭐⭐☆ | React/Next.js frontends with Supabase-backed APIs |
+| **Full Stack Development** | ⭐⭐⭐☆☆ | React frontends with Supabase-backed APIs |
 | **Mobile-First Product Design** | ⭐⭐⭐☆☆ | Android-first product thinking, freemium model design |
-| **API Integration** | ⭐⭐⭐⭐☆ | Google Places API, third-party data layers, REST integration |
-| **Applied ML Curiosity** | ⭐⭐⭐☆☆ | Exploring model-based features for future product work |
-| **DevOps Basics** | ⭐⭐⭐☆☆ | Git workflows, GitHub Actions, environment configuration |
+| **API Integration** | ⭐⭐⭐☆☆ | Google Places API, third-party data layers, REST integration |
+| **Applied ML Curiosity** | ⭐⭐☆☆☆ | Exploring model-based features for future product work |
+| **DevOps Basics** | ⭐⭐☆☆☆ | Git workflows, GitHub Actions, environment configuration |
 
 </div>
 
@@ -206,8 +192,7 @@ Freelance work across Reddit-focused content platforms, producing natural, platf
 
 | Recognition | Details |
 |---|---|
-| 🎮 Rockstar Games Interview | Selected for and completed a video interview for a game-testing/QA-adjacent role |
-| 🛠️ Product Builder | Designed and scaffolded a full India-focused Android app (Yatra/Deshtrail) |
+| 🎮 Rockstar Games | Shortlisted for [Role Name] |
 
 </div>
 
@@ -289,7 +274,7 @@ Freelance work across Reddit-focused content platforms, producing natural, platf
 
 </div>
 
-> 💡 The snake animation needs a one-time GitHub Actions setup in a repo named exactly `Shaurya24k` (matching your username) — see the [snake workflow guide](https://github.com/Platane/snk) to enable it.
+> 💡 The snake animation needs a one-time GitHub Actions workflow set up in this same `Shaurya24k` repo — see the [snake workflow guide](https://github.com/Platane/snk) to enable it.
 
 ---
 
@@ -305,9 +290,8 @@ current_focus:
     - Yatra / Deshtrail — India-focused travel discovery app
   exploring:
     - LLM-integrated product features
-    - Cloud-native architectures ahead of college
+    - Cloud-native architectures
   open_to:
-    - B.Tech CSE — Fall 2026
     - Internship & collaboration opportunities
     - Open Source contributions
 ```
@@ -339,6 +323,6 @@ current_focus:
 
 <i>"Ship early, iterate often, and let the product argue for itself."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:4C1D95&height=150&section=footer" width="100%"/>
 
 </div>
