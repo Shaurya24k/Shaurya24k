@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="150" viewBox="0 0 270 150" role="img"><style>
+text{font-family:'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace}
+.serif{font-family:'Instrument Serif', Georgia, 'Times New Roman', serif}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes pop{from{transform:scale(0);opacity:0}to{transform:scale(1);opacity:1}}
+@keyframes swing{0%{opacity:0;transform:translateY(40px) rotate(-4deg)}70%{transform:translateY(-4px) rotate(1deg)}100%{opacity:1;transform:none}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+.fb{transform-box:fill-box}
+.rise{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}
+.grow{transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.7,.2,1) both}
+.pop{transform-origin:center;animation:pop .35s ease-out both}
+.swing{transform-origin:center bottom;animation:swing .9s cubic-bezier(.2,.7,.2,1) both}
+.pulse{animation:pulse 2s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><g class="swing" style="animation-delay:1.20s"><rect width="270" height="150" rx="12" fill="#ffc61a"/>
+<text x="18" y="30" font-size="11" letter-spacing="1.5" fill="#1a1a1a">CONNECT</text>
+<text x="242" y="30" font-size="14" fill="#1a1a1a">→</text><text x="18" y="100" font-size="12" fill="#1a1a1a" opacity=".92">Open to internships and</text><text x="18" y="120" font-size="12" fill="#1a1a1a" opacity=".92">open-source collabs.</text></g></svg>
